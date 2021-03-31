@@ -1,8 +1,8 @@
 name: Wen-Yen Chang
 # url: http://bamos.github.io
-url: http://wenyen.github.io
+url: http://github.com/Jwy-Leo/
 # url: Jwy-Leo.github.io
-# baseurl: wenyen.github.io
+baseurl: wenyen.github.io
 destination: ./_site
 twitter: brandondamos
 lsi: false
