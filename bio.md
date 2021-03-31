@@ -1,3 +1,1 @@
-Brandon D. Amos is a Computer Science Ph.D. student at Carnegie Mellon University
-with research interests in machine learning, computer vision, and mobile computing.
-He obtained a B.S. in Computer Science from Virginia Tech in May 2014.
+Wen-Yen Chang completed his master's degree in the department of electrical engineering at National Tsing Hua University, Taiwan in 2020. He was a member of Vision Science Lab (VSLab) advised by Prof. Min Sun and Dr. Ting-Fan Wu. His research interests are centered on computer vision, machine learning, especially in deep learning>.
