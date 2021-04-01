@@ -130,7 +130,7 @@ While there are several widely used object detection datasets, current computer 
 <table class="table table-hover">
 
 <tr id="tr-wenyen2019bias_aware" style="background-color: #ffffd0">
-<td class="col-md-3"><a href='https://arxiv.org/pdf/1911.07574' target='_blank'><img src="images/publications/bias_aware_heapify_policy.png" onerror="this.style.display='none'" style='border: none;' /></a> </td>
+<td class="col-md-3"><a href='https://arxiv.org/pdf/1911.07574' target='_blank'><img src="images/publications/bias_aware_heapify_policy.PNG" onerror="this.style.display='none'" style='border: none;' /></a> </td>
 <td>
     <em>Bias-Aware Heapified Policy for Active Learning</em><br>
     <strong>Wen-Yen Chang</strong>, Wen-Huan Chiang, Shao-Hao Lu, Tingfan Wu, Min Sun<br>
@@ -186,7 +186,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
 </tr>
 
 <tr id="tr-wenyen2018Cinema-graph" style="background-color: #ffffd0">
-<td class="col-md-3"><a href='https://drive.google.com/file/d/1fVjTz5ySJtjuBqj3wsLjHbZE3wXjzfLN/view' target='_blank'><img src="images/publications/wenyen2018_taxi-bidding_simulation.png" onerror="this.style.display='none'" style='border: none;' /></a> </td>
+<td class="col-md-3"><a href='https://drive.google.com/file/d/1fVjTz5ySJtjuBqj3wsLjHbZE3wXjzfLN/view' target='_blank'><img src="images/publications/wenyen2018_taxi-bidding_simulation.PNG" onerror="this.style.display='none'" style='border: none;' /></a> </td>
 <td>
     <em>Taxi-bidding simulation(auction rule)</em><br>
     Meng-Li Shih, <strong>Wen-Yen Chang</strong>, Chun-Hung Chao<br>
@@ -216,7 +216,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
 </tr>
 
 <tr id="tr-wenyen2017HomeCareAPP" style="background-color: #ffffd0">
-<td class="col-md-3"><a href='https://drive.google.com/file/d/0B_Idv-dGumOZRjlLR3JLeTdGNnM/view' target='_blank'><img src="images/publications/wenyen_Homecare_APP.png" onerror="this.style.display='none'" style='border: none;' /></a> </td>
+<td class="col-md-3"><a href='https://drive.google.com/file/d/0B_Idv-dGumOZRjlLR3JLeTdGNnM/view' target='_blank'><img src="images/publications/wenyen_Homecare_APP.PNG" onerror="this.style.display='none'" style='border: none;' /></a> </td>
 <td>
     <em>Home Care App.</em><br>
     <strong>Wen-Yen Chang</strong>, Kang-Yu Liou, Kuan-Yeh Wu, Ya-Chu Chang, Po-Hsien Wang, Ting-Ying Wang<br>
