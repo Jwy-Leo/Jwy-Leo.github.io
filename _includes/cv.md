@@ -1,15 +1,39 @@
- <b>Wen-Yen Chang</b> completed his master's degree in the department of electrical engineering at National Tsing Hua University, Taiwan in 2020. He was a member of <b>Vision Science Lab (<a href='https://aliensunmin.github.io/lab/info.html' target='_blank'>VSLab</a>)</b> advised by Prof. <b>Min Sun</b> and Dr. <b>Ting-Fan Wu</b>. His research interests are centered on <b>computer vision</b>, <b>machine learning</b>, especially in <b>deep learning</b>. <br><br>
+ <b>Wen-Yen Chang</b> completed his master's degree at the department of electrical engineering at National Tsing Hua University, Taiwan in 2020. He was a member of <b>Vision Science Lab (<a href='https://aliensunmin.github.io/lab/info.html' target='_blank'>VSLab</a>)</b> advised by Prof. <b>Min Sun</b> and Dr. <b>Ting-Fan Wu</b>. His research interests are centered on <b>computer vision</b>, <b>machine learning</b>, especially in <b>deep learning</b>. <br> I'm actively looking for permanent positions for Master's graduates. Specifically, seeking <strong>AI Engineer / Data Scientist / Software Engineer</strong> position.<br><br>
 
 
-## <i class="fa fa-chevron-right"></i> Current Position
+## <i class="fa fa-chevron-right"></i> Experiences
 <table class="table table-hover">
 <tr>
   <td>
 <p markdown="1" style='margin: 0'>
-<strong>Master of Science in EE</strong> | National Tsing Hua University
+<strong>Military Service in Taiwan.</strong>
 </p>
   </td>
-  <td class='col-md-2' style='text-align:right;'>2020 - Present</td>
+  <td class='col-md-2' style='text-align:right;'>Sep. 2020 - Dec. 2020</td>
+</tr>
+
+<tr>
+  <td>
+<p markdown="1" style='margin: 0'>
+<strong>Machine Learning Research Intern (Consultant)</strong><br>
+Kaikutek inc. | Taipei<br>
+• Research: fast hand-gesture recognition and few-shot learning.<br>
+• Cloud Computing System: Server-less training platform by AWS.<br>
+</p>
+  </td>
+  <td class='col-md-2' style='text-align:right;'>May 2020 - Sep. 2020</td>
+</tr>
+
+<tr>
+  <td>
+<p markdown="1" style='margin: 0'>
+<strong>DSP Summer Intern</strong><br>
+MediaTek inc. | Hsinchu<br>
+• Tools Chains development: 5G NR field tried tools.<br>
+• DSP analysis: HRAM replay and analysis<br>
+</p>
+  </td>
+  <td class='col-md-2' style='text-align:right;'>July 2019 - Aug. 2019</td>
 </tr>
 </table>
 
@@ -28,7 +52,7 @@
         <br> Advisors: [Min Sun](https://aliensunmin.github.io/), [Ting-Fan Wu](https://www.linkedin.com/in/tingfan-wu-5359669/)
         </p>
     </td>
-    <td class="col-md-2" style='text-align:right;'>2018 - 2020</td>
+    <td class="col-md-2" style='text-align:right;'>Feb. 2018 - June 2020</td>
   </tr>
   <tr>
     <td>
@@ -41,7 +65,7 @@
         <br> Advisors: [Ching-Chun Huang](https://www.cs.nycu.edu.tw/members/detail/chingchun)
         </p>
     </td>
-    <td class="col-md-2" style='text-align:right;'>2014 - 2018</td>
+    <td class="col-md-2" style='text-align:right;'>Sep. 2014 - Feb. 2018</td>
   </tr>
 </table>
 
@@ -58,15 +82,15 @@
 <tr>
   <td>
   Appier Scholarship
-    <br><p style="color:grey;font-size:1.2rem">for outstanding students in their research with top conference papers.
+    <br><p style="color:grey;font-size:1.2rem">for outstanding students in their research with top conference papers. (research:<a href='#tr-wenyen2019bias_aware' >ECCV 2018</a>)
 </p>
   </td>
   <td class='col-md-2' style='text-align:right;'>2018</td>
 </tr>
 <tr>
   <td>
-  The High Distinction Award
-    <br><p style="color:grey;font-size:1.2rem">the 1st prizes for graduation exhibition of electronic engineering in CCU.
+  The High Distinction Award (Outstanding Award)
+    <br><p style="color:grey;font-size:1.2rem">the <a href="#tr-wenyen2018Cinema-graph">undergraudated project</a> is award to 1st prizes in graduation exhibition of electronic engineering, CCU.
 </p>
   </td>
   <td class='col-md-2' style='text-align:right;'>2017</td>
@@ -74,12 +98,14 @@
 <tr>
   <td>
   The Chair Award
-    <br><p style="color:grey;font-size:1.2rem">the most potential product in the graduation exhibition of electronic engineering in CCU.
+    <br><p style="color:grey;font-size:1.2rem">the most potential product for <a href="#tr-wenyen2018Cinema-graph">undergraudated project</a> in the graduation exhibition of electronic engineering in CCU.
 </p>
   </td>
   <td class='col-md-2' style='text-align:right;'>2017</td>
 </tr>
 </table>
+
+
 <!-- without modify -->
 ## <i class="fa fa-chevron-right"></i> Publications <a href="https://github.com/"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
@@ -203,7 +229,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
 <td>
     <em>Car tracking and finding service in parkinglot system</em><br>
     <strong>Wen-Yen Chang</strong><br>
-    Bachelor independent research<br>
+    Undergraudated project <br>
     [7] 
     [<a href='javascript:;'
     onclick='$("#abs_wenyen2017ParkingLotAPP").toggle()'>abs</a>][<a href='https://drive.google.com/file/d/0B_Idv-dGumOZUzJYcUlZT3BFdFk/view?usp=sharing' target='_blank'>pdf</a>]  [<a href='https://www.youtube.com/watch?v=T1_LeuHiyTA&t=1s' target='_blank'>video</a>] <br>
