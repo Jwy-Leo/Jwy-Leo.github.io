@@ -190,7 +190,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
 <td>
     <em>Taxi-bidding simulation(auction rule)</em><br>
     Meng-Li Shih, <strong>Wen-Yen Chang</strong>, Chun-Hung Chao<br>
-    [5] 
+    [6] 
     [<a href='https://drive.google.com/file/d/1fVjTz5ySJtjuBqj3wsLjHbZE3wXjzfLN/view' target='_blank'>pdf</a>]  [<a href='https://www.youtube.com/watch?v=OAhS7IFavqk' target='_blank'>video</a>] <br>
 </td>
 </tr>
@@ -204,7 +204,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
     <em>Car tracking and finding service in parkinglot system</em><br>
     <strong>Wen-Yen Chang</strong><br>
     Bachelor independent research<br>
-    [6] 
+    [7] 
     [<a href='javascript:;'
     onclick='$("#abs_wenyen2017ParkingLotAPP").toggle()'>abs</a>][<a href='https://drive.google.com/file/d/0B_Idv-dGumOZUzJYcUlZT3BFdFk/view?usp=sharing' target='_blank'>pdf</a>]  [<a href='https://www.youtube.com/watch?v=T1_LeuHiyTA&t=1s' target='_blank'>video</a>] <br>
 <div id="abs_wenyen2017ParkingLotAPP" style="text-align: justify; display: none" markdown="1">
@@ -220,8 +220,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
 <td>
     <em>Home Care App.</em><br>
     <strong>Wen-Yen Chang</strong>, Kang-Yu Liou, Kuan-Yeh Wu, Ya-Chu Chang, Po-Hsien Wang, Ting-Ying Wang<br>
-    Bachelor independent research<br>
-    [7] 
+    [8] 
     [<a href='javascript:;'
     onclick='$("#abs_wenyen2017HomeCareAPP").toggle()'>abs</a>][<a href='https://drive.google.com/file/d/0B_Idv-dGumOZRjlLR3JLeTdGNnM/view' target='_blank'>pdf</a>]<br>
 <div id="abs_wenyen2017HomeCareAPP" style="text-align: justify; display: none" markdown="1">
