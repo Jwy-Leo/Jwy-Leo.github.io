@@ -90,7 +90,7 @@ MediaTek inc. | Hsinchu<br>
 </tr>
 <tr>
   <td>
-  The High Distinction Award (Outstanding Award)
+  The High Distinction Award
     <br><p style="color:grey;font-size:1.2rem">the <a href="#tr-wenyen2018Cinema-graph">undergraudated project</a> is award to 1st prizes in graduation exhibition of electronic engineering, CCU.
 </p>
   </td>
