@@ -1,9 +1,9 @@
 {
-    "name": "wenyen.github.io",
+    "name": "jwy-leo.github.io",
     "version": "0.0.0",
-    "homepage": "https://jwy-leo.github.io/wenyen.github.io",
+    "homepage": "https://jwy-leo.github.io",
     "authors": [
-        "Brandon Amos <bamos@cs.cmu.edu>"
+        "Wen-Yen Chang <s0936100879@yahoo.com.tw>"
     ],
     "license": "Apache",
     "ignore": [
