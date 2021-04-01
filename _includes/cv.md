@@ -39,7 +39,8 @@ MediaTek inc. | Hsinchu<br>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
-
+<!-- https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021060617050%22.&searchmode=basic -->
+<!-- https://exhibition.ee.ccu.edu.tw/awards_info.php?teamName=%E6%99%BA%E6%85%A7%E7%9C%BC&year=2017 -->
 <table class="table table-hover">
   <tr>
     <td>
@@ -48,7 +49,7 @@ MediaTek inc. | Hsinchu<br>
         <br>
       National Tsing Hua University | Hsinchu
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> *[Enhance data selection efficiency with variational auto-encoder for object detection’s active learning](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021060617050%22.&searchmode=basic)*
+        <br> *[Enhance data selection efficiency with variational auto-encoder for object detection’s active learning](#show-master-thesis)*
         <br> Advisors: [Min Sun](https://aliensunmin.github.io/), [Ting-Fan Wu](https://www.linkedin.com/in/tingfan-wu-5359669/)
         </p>
     </td>
@@ -61,7 +62,7 @@ MediaTek inc. | Hsinchu<br>
         <br>
       National Chung Cheng University | Chiayi
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> *[Car tracking and finding service in parkinglot system](https://exhibition.ee.ccu.edu.tw/awards_info.php?teamName=%E6%99%BA%E6%85%A7%E7%9C%BC&year=2017)*
+        <br> *[Car tracking and finding service in parkinglot system](#tr-wenyen2018taxi_bidding)*
         <br> Advisors: [Ching-Chun Huang](https://www.cs.nycu.edu.tw/members/detail/chingchun)
         </p>
     </td>
@@ -98,7 +99,7 @@ MediaTek inc. | Hsinchu<br>
 <tr>
   <td>
   The Chair Award
-    <br><p style="color:grey;font-size:1.2rem">the most potential product for <a href="#tr-wenyen2018Cinema-graph">undergraudated project</a> in the graduation exhibition of electronic engineering in CCU.
+    <br><p id="show-master-thesis" style="color:grey;font-size:1.2rem">the most potential product for <a href="#tr-wenyen2018Cinema-graph">undergraudated project</a> in the graduation exhibition of electronic engineering in CCU.
 </p>
   </td>
   <td class='col-md-2' style='text-align:right;'>2017</td>
@@ -211,7 +212,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
 </td>
 </tr>
 
-<tr id="tr-wenyen2018Cinema-graph" style="background-color: #ffffd0">
+<tr id="tr-wenyen2018taxi_bidding" style="background-color: #ffffd0">
 <td class="col-md-3"><a href='https://drive.google.com/file/d/1fVjTz5ySJtjuBqj3wsLjHbZE3wXjzfLN/view' target='_blank'><img src="images/publications/wenyen2018_taxi-bidding_simulation.PNG" onerror="this.style.display='none'" style='border: none;' /></a> </td>
 <td>
     <em>Taxi-bidding simulation(auction rule)</em><br>
