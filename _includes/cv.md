@@ -212,6 +212,27 @@ The data efficiency of learning-based algorithms is more and more important sinc
 </td>
 </tr>
 
+<tr id="tr-wenyen2018-3D-Game" style="background-color: #ffffd0">
+<td class="col-md-3"><a href='https://www.youtube.com/watch?v=1Mzj2rCJwfk&t' target='_blank'><img src="images/publications/wenyen2018_OpenGL.png" onerror="this.style.display='none'" style='border: none;' /></a> </td>
+<td>
+    <em>3D Game world with C++</em><br>
+    <strong>Wen-Yen Chang</strong>, Chun-Hung Chao, Wei-Cheng Tseng, Jason Wu<br>
+    [6] 
+    [<a href='javascript:;'
+    onclick='$("#abs_wenyen2018-3D-Game").toggle()'>abs</a>][<a href='https://www.youtube.com/watch?v=1Mzj2rCJwfk&t' target='_blank'>video</a>] <br>
+<div id="abs_wenyen2018-3D-Game" style="text-align: justify; display: none" markdown="1">
+1. Particle System(snow)<br>
+2. Skyball<br>
+3. customized UI<br>
+4. Shadow<br>
+5. SSAO<br>
+6. Lighting<br>
+7. Physical Effect<br>
+8. Normal Mapping<br>
+</div>
+</td>
+</tr>
+
 <tr id="tr-wenyen2018taxi_bidding" style="background-color: #ffffd0">
 <td class="col-md-3"><a href='https://drive.google.com/file/d/1fVjTz5ySJtjuBqj3wsLjHbZE3wXjzfLN/view' target='_blank'><img src="images/publications/wenyen2018_taxi-bidding_simulation.PNG" onerror="this.style.display='none'" style='border: none;' /></a> </td>
 <td>
