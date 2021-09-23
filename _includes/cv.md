@@ -1,8 +1,17 @@
- <b>Wen-Yen Chang</b> completed his master's degree at the department of electrical engineering at National Tsing Hua University, Taiwan in 2020. He was a member of <b>Vision Science Lab (<a href='https://aliensunmin.github.io/lab/info.html' target='_blank'>VSLab</a>)</b> advised by Prof. <b>Min Sun</b> and Dr. <b>Ting-Fan Wu</b>. His research interests are centered on <b>computer vision</b>, <b>machine learning</b>, especially in <b>deep learning</b>. <br> I'm actively looking for permanent positions for Master's graduates. Specifically, seeking <strong>AI Engineer / Data Scientist / Software Engineer</strong> position.<br><br>
+ <b>Wen-Yen Chang</b> completed his master's degree at the department of electrical engineering at National Tsing Hua University, Taiwan in 2020. He was a member of <b>Vision Science Lab (<a href='https://aliensunmin.github.io/lab/info.html' target='_blank'>VSLab</a>)</b> advised by Prof. <b>Min Sun</b> and Dr. <b>Ting-Fan Wu</b>. His research interests are centered on <b>computer vision</b>, <b>machine learning</b>, especially in <b>deep learning</b>. <br> I’m working in the Qualcomm XR Research system team, and focus on the Deep Learning features by appling the DSP to accerating on edge device.<br><br>
+ <!---  I'm actively looking for permanent positions for Master's graduates. Specifically, seeking <strong>AI Engineer / Data Scientist / Software Engineer</strong> position.<br><br>--->
 
 
 ## <i class="fa fa-chevron-right"></i> Experiences
 <table class="table table-hover">
+<tr>
+  <td>
+<p markdown="1" style='margin: 0'>
+<strong>Qualcomm XR Research system team in Taiwan.</strong>
+</p>
+  </td>
+  <td class='col-md-2' style='text-align:right;'>July 2021 - Present</td>
+</tr>
 <tr>
   <td>
 <p markdown="1" style='margin: 0'>
@@ -239,7 +248,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
     <em>Taxi-bidding simulation(auction rule)</em><br>
     Meng-Li Shih, <strong>Wen-Yen Chang</strong>, Chun-Hung Chao<br>
     [7] 
-    [<a href='https://drive.google.com/file/d/1fVjTz5ySJtjuBqj3wsLjHbZE3wXjzfLN/view' target='_blank'>pdf</a>]  [<a href='https://www.youtube.com/watch?v=OAhS7IFavqk' target='_blank'>video</a>] <br>
+    [<a href='https://drive.google.com/file/d/1fVjTz5ySJtjuBqj3wsLjHbZE3wXjzfLN/view?usp=sharing' target='_blank'>pdf</a>]  [<a href='https://www.youtube.com/watch?v=OAhS7IFavqk' target='_blank'>video</a>] <br>
 </td>
 </tr>
 </table>
@@ -254,7 +263,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
     Undergraudated project <br>
     [8] 
     [<a href='javascript:;'
-    onclick='$("#abs_wenyen2017ParkingLotAPP").toggle()'>abs</a>][<a href='https://drive.google.com/file/d/0B_Idv-dGumOZUzJYcUlZT3BFdFk/view?usp=sharing' target='_blank'>pdf</a>]  [<a href='https://www.youtube.com/watch?v=T1_LeuHiyTA&t=1s' target='_blank'>video</a>] <br>
+    onclick='$("#abs_wenyen2017ParkingLotAPP").toggle()'>abs</a>][<a href='https://drive.google.com/file/d/0B_Idv-dGumOZUzJYcUlZT3BFdFk/view?usp=sharing&resourcekey=0-4UY0dyBl1wYou5XaoZtuRQ' target='_blank'>pdf</a>]  [<a href='https://www.youtube.com/watch?v=T1_LeuHiyTA&t=1s' target='_blank'>video</a>] <br>
 <div id="abs_wenyen2017ParkingLotAPP" style="text-align: justify; display: none" markdown="1">
   • Getting more reliable tracking results, I use image motion to enhance image-based object detection model.<br>
   • Eliminating GPS localization error, I use trajectory information to reduce the white noise by Kalman Filter.<br>
@@ -270,7 +279,7 @@ The data efficiency of learning-based algorithms is more and more important sinc
     <strong>Wen-Yen Chang</strong>, Kang-Yu Liou, Kuan-Yeh Wu, Ya-Chu Chang, Po-Hsien Wang, Ting-Ying Wang<br>
     [9] 
     [<a href='javascript:;'
-    onclick='$("#abs_wenyen2017HomeCareAPP").toggle()'>abs</a>][<a href='https://drive.google.com/file/d/0B_Idv-dGumOZRjlLR3JLeTdGNnM/view' target='_blank'>pdf</a>]<br>
+    onclick='$("#abs_wenyen2017HomeCareAPP").toggle()'>abs</a>][<a href='https://drive.google.com/file/d/0B_Idv-dGumOZRjlLR3JLeTdGNnM/view?usp=sharing&resourcekey=0-O1DyQ06iJlulYuVgDiifEQ' target='_blank'>pdf</a>]<br>
 <div id="abs_wenyen2017HomeCareAPP" style="text-align: justify; display: none" markdown="1">
   A android application to recognize the number on blood-pressure machine. The recognition system need to deal with multiple material display. 
 </div>
