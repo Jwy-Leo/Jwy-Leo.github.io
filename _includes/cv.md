@@ -1,5 +1,5 @@
- <b>Wen-Yen Chang</b> completed his master's degree at the department of electrical engineering at National Tsing Hua University, Taiwan in 2020. He was a member of <b>Vision Science Lab (<a href='https://aliensunmin.github.io/lab/info.html' target='_blank'>VSLab</a>)</b> advised by Prof. <b>Min Sun</b> and Dr. <b>Ting-Fan Wu</b>. His research interests are centered on <b>computer vision</b>, <b>machine learning</b>, especially in <b>deep learning</b>. <br> I’m working in the Qualcomm XR Research system team, and focus on the Deep Learning features by appling the DSP to accerating on edge device.<br><br>
- <!---  I'm actively looking for permanent positions for Master's graduates. Specifically, seeking <strong>AI Engineer / Data Scientist / Software Engineer</strong> position.<br><br>--->
+ <b>Wen-Yen Chang</b> completed his master's degree at the department of electrical engineering at National Tsing Hua University, Taiwan in 2020. He was a member of <b>Vision Science Lab (<a href='https://aliensunmin.github.io/lab/info.html' target='_blank'>VSLab</a>)</b> advised by Prof. <b>Min Sun</b> and Dr. <b>Ting-Fan Wu</b>. His research interests are centered on <b>computer vision</b>, <b>machine learning</b>, especially in <b>deep learning</b>. In his recently industry experience, He had worked in Qualcomm XR Reearch department 3.5 years develop and optimized deep learning feature on XR edge device with NPU(DSP). Specifically, he own quantization feature impacts Qualcomm XR device reduce at least <strong>75% power consumption and 80% latency </strong>with NPU.<br>
+ <br>*I'm actively looking for permanent positions. Seeking <strong>AI Engineer / Data Scientist / Software Engineer</strong> position.*<br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> Experiences
@@ -7,10 +7,16 @@
 <tr>
   <td>
 <p markdown="1" style='margin: 0'>
-<strong>Qualcomm XR Research system team in Taiwan.</strong>
+<strong>Qualcomm XR Research system team in Taiwan.</strong><br>
 </p>
+ • Research: Model compression, specifically tune on edge device<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 1. Model quantization in order to optimize target products’ latency/power by low-bits (W4A8, W8A8).<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 2. Model architecture selection and operation fusion.<br>
+ • Applications (The Comparison are FP16 model on NPU)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 1. Monocular Depth Prediction, reduce 82% latency , 78% power and improve 12% accuracy.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; 2. Segmentation for Instance and background, reduce 81% latency, 75% power and keep accuracy.<br>
   </td>
-  <td class='col-md-2' style='text-align:right;'>July 2021 - Present</td>
+  <td class='col-md-2' style='text-align:right;'>July 2021 - Nov. 2024</td>
 </tr>
 <tr>
   <td>
